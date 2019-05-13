@@ -5,7 +5,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/quickchain/quickchain/event"
+	"github.com/quickchainproject/quickchain/event"
 )
 
 // Manager is an overarching account manager that can communicate with various

@@ -16,11 +16,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/crypto"
-	"github.com/quickchain/quickchain/event"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/event"
 )
 
 var (

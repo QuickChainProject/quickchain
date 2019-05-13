@@ -7,9 +7,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/common/math"
-	"github.com/quickchain/quickchain/core/vm"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/common/math"
+	"github.com/quickchainproject/quickchain/core/vm"
 )
 
 type JSONLogger struct {

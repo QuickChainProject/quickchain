@@ -6,8 +6,8 @@ import (
 
 	"strings"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/internal/debug"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/internal/debug"
 	"gopkg.in/urfave/cli.v1"
 )
 

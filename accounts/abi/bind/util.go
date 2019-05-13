@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/log"
 )
 
 // WaitMined waits for tx to be mined on the blockchain.

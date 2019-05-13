@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 func TestSet(t *testing.T) {

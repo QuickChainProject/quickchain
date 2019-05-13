@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/crypto"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

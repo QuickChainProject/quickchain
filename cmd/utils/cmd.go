@@ -12,15 +12,15 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/crypto"
-	"github.com/quickchain/quickchain/qctdb"
-	"github.com/quickchain/quickchain/internal/debug"
-	"github.com/quickchain/quickchain/log"
-	"github.com/quickchain/quickchain/node"
-	"github.com/quickchain/quickchain/rlp"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/qctdb"
+	"github.com/quickchainproject/quickchain/internal/debug"
+	"github.com/quickchainproject/quickchain/log"
+	"github.com/quickchainproject/quickchain/node"
+	"github.com/quickchainproject/quickchain/rlp"
 )
 
 const (

@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 type keyStorePlain struct {

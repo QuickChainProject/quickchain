@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 // Method represents a callable given a `Name` and whether the method is a constant.

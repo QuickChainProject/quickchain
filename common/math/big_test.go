@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

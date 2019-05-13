@@ -8,10 +8,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/quickchain/quickchain/core/state"
-	"github.com/quickchain/quickchain/core/vm"
-	"github.com/quickchain/quickchain/log"
-	"github.com/quickchain/quickchain/tests"
+	"github.com/quickchainproject/quickchain/core/state"
+	"github.com/quickchainproject/quickchain/core/vm"
+	"github.com/quickchainproject/quickchain/log"
+	"github.com/quickchainproject/quickchain/tests"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

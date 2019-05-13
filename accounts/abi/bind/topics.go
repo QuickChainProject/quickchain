@@ -6,9 +6,9 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/quickchain/quickchain/accounts/abi"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/accounts/abi"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 // makeTopics converts a filter query argument list into a filter topic set.

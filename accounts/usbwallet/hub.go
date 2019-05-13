@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/event"
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/event"
+	"github.com/quickchainproject/quickchain/log"
 	"github.com/karalabe/hid"
 )
 

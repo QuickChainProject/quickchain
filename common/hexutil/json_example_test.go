@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/quickchain/quickchain/common/hexutil"
+	"github.com/quickchainproject/quickchain/common/hexutil"
 )
 
 type MyType [5]byte

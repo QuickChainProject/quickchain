@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/log"
 	set "gopkg.in/fatih/set.v0"
 )
 

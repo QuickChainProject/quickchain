@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 	"github.com/stretchr/testify/require"
 )
 

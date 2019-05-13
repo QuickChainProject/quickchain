@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 const (

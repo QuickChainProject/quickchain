@@ -3,7 +3,7 @@ package number
 import (
 	"math/big"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 var tt256 = new(big.Int).Lsh(big.NewInt(1), 256)

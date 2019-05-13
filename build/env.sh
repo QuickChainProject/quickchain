@@ -10,10 +10,10 @@ fi
 # Create fake Go workspace if it doesn't exist yet.
 workspace="$PWD/build/_workspace"
 root="$PWD"
-letdir="$workspace/src/github.com/quickchain"
-if [ ! -L "$letdir/quickchain" ]; then
-    mkdir -p "$letdir"
-    cd "$letdir"
+qctdir="$workspace/src/github.com/quickchainproject"
+if [ ! -L "$qctdir/quickchain" ]; then
+    mkdir -p "$qctdir"
+    cd "$qctdir"
     ln -s ../../../../../. quickchain
     cd "$root"
 fi
@@ -23,8 +23,8 @@ GOPATH="$workspace"
 export GOPATH
 
 # Run the command inside the workspace.
-cd "$letdir/quickchain"
-PWD="$letdir/quickchain"
+cd "$qctdir/quickchain"
+PWD="$qctdir/quickchain"
 
 # Launch the arguments with the configured environment.
 exec "$@"

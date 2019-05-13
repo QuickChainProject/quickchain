@@ -11,12 +11,12 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/accounts/usbwallet/internal/trezor"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/common/hexutil"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/accounts/usbwallet/internal/trezor"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/common/hexutil"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/log"
 	"github.com/golang/protobuf/proto"
 )
 

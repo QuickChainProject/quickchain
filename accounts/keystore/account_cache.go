@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/log"
 	"gopkg.in/fatih/set.v0"
 )
 

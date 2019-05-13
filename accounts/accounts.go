@@ -4,10 +4,10 @@ package accounts
 import (
 	"math/big"
 
-	quickchain "github.com/quickchain/quickchain"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/event"
+	quickchain "github.com/quickchainproject/quickchain"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/event"
 )
 
 // Account represents an Ethereum account located at a specific location defined

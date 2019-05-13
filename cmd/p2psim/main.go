@@ -30,12 +30,12 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/quickchain/quickchain/crypto"
-	"github.com/quickchain/quickchain/p2p"
-	"github.com/quickchain/quickchain/p2p/discover"
-	"github.com/quickchain/quickchain/p2p/simulations"
-	"github.com/quickchain/quickchain/p2p/simulations/adapters"
-	"github.com/quickchain/quickchain/rpc"
+	"github.com/quickchainproject/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/p2p"
+	"github.com/quickchainproject/quickchain/p2p/discover"
+	"github.com/quickchainproject/quickchain/p2p/simulations"
+	"github.com/quickchainproject/quickchain/p2p/simulations/adapters"
+	"github.com/quickchainproject/quickchain/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

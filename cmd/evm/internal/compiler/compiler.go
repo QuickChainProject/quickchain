@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/quickchain/quickchain/core/asm"
+	"github.com/quickchainproject/quickchain/core/asm"
 )
 
 func Compile(fn string, src []byte, debug bool) (string, error) {

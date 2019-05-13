@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core"
-	"github.com/quickchain/quickchain/qctdb"
-	"github.com/quickchain/quickchain/params"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core"
+	"github.com/quickchainproject/quickchain/qctdb"
+	"github.com/quickchainproject/quickchain/params"
 )
 
 // Genesis block for nodes which don't care about the DAO fork (i.e. not configured)

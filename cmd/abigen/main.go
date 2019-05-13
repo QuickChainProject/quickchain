@@ -9,8 +9,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/quickchain/quickchain/accounts/abi/bind"
-	"github.com/quickchain/quickchain/common/compiler"
+	"github.com/quickchainproject/quickchain/accounts/abi/bind"
+	"github.com/quickchainproject/quickchain/common/compiler"
 )
 
 var (

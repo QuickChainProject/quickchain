@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/event"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/event"
 )
 
 var testSigData = make([]byte, 32)

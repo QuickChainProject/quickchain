@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/quickchain/quickchain/internal/cmdtest"
+	"github.com/quickchainproject/quickchain/internal/cmdtest"
 )
 
 type testEthkey struct {

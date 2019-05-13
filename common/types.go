@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/quickchain/quickchain/common/hexutil"
-	"github.com/quickchain/quickchain/crypto/sha3"
+	"github.com/quickchainproject/quickchain/common/hexutil"
+	"github.com/quickchainproject/quickchain/crypto/sha3"
 )
 
 const (

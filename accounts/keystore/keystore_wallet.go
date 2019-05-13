@@ -3,9 +3,9 @@ package keystore
 import (
 	"math/big"
 
-	quickchain "github.com/quickchain/quickchain"
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/core/types"
+	quickchain "github.com/quickchainproject/quickchain"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/core/types"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

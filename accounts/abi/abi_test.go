@@ -11,8 +11,8 @@ import (
 
 	"reflect"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 const jsondata = `

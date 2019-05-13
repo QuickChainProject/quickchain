@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/quickchain/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -11,10 +11,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/quickchain/quickchain/cmd/internal/browser"
-	"github.com/quickchain/quickchain/params"
+	"github.com/quickchainproject/quickchain/cmd/internal/browser"
+	"github.com/quickchainproject/quickchain/params"
 
-	"github.com/quickchain/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/cmd/utils"
 	cli "gopkg.in/urfave/cli.v1"
 )
 
@@ -26,7 +26,7 @@ var bugCommand = cli.Command{
 	Category:  "MISCELLANEOUS COMMANDS",
 }
 
-const issueUrl = "https://github.com/quickchain/quickchain/issues/new"
+const issueUrl = "https://github.com/quickchainproject/quickchain/issues/new"
 
 // reportBug reports a bug by opening a new URL to the quickchain GH issue
 // tracker and setting default values as the issue body.

@@ -5,8 +5,8 @@ Maintainer: {{.Author}}
 Build-Depends: debhelper (>= 8.0.0), golang-1.10
 Standards-Version: 3.9.5
 Homepage: https://quickchain.org
-Vcs-Git: git://github.com/quickchain/quickchain.git
-Vcs-Browser: https://github.com/quickchain/quickchain
+Vcs-Git: git://github.com/quickchainproject/quickchain.git
+Vcs-Browser: https://github.com/quickchainproject/quickchain
 
 Package: {{.Name}}
 Architecture: any

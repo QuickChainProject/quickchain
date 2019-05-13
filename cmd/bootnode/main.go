@@ -8,13 +8,13 @@ import (
 	"net"
 	"os"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/crypto"
-	"github.com/quickchain/quickchain/log"
-	"github.com/quickchain/quickchain/p2p/discover"
-	"github.com/quickchain/quickchain/p2p/discv5"
-	"github.com/quickchain/quickchain/p2p/nat"
-	"github.com/quickchain/quickchain/p2p/netutil"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/log"
+	"github.com/quickchainproject/quickchain/p2p/discover"
+	"github.com/quickchainproject/quickchain/p2p/discv5"
+	"github.com/quickchainproject/quickchain/p2p/nat"
+	"github.com/quickchainproject/quickchain/p2p/netutil"
 )
 
 func main() {

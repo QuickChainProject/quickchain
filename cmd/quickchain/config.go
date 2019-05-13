@@ -12,11 +12,11 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/dashboard"
-	"github.com/quickchain/quickchain/qct"
-	"github.com/quickchain/quickchain/node"
-	"github.com/quickchain/quickchain/params"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/dashboard"
+	"github.com/quickchainproject/quickchain/qct"
+	"github.com/quickchainproject/quickchain/node"
+	"github.com/quickchainproject/quickchain/params"
 	"github.com/naoina/toml"
 )
 

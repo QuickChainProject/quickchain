@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/node"
-	"github.com/quickchain/quickchain/rpc"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/node"
+	"github.com/quickchainproject/quickchain/rpc"
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

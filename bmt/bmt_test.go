@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickchain/quickchain/crypto/sha3"
+	"github.com/quickchainproject/quickchain/crypto/sha3"
 )
 
 const (

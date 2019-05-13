@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

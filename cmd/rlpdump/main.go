@@ -11,7 +11,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/quickchain/quickchain/rlp"
+	"github.com/quickchainproject/quickchain/rlp"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/quickchain/quickchain/core/asm"
+	"github.com/quickchainproject/quickchain/core/asm"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

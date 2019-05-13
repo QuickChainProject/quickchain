@@ -10,11 +10,11 @@ import (
 	"time"
 
 	"github.com/karalabe/hid"
-	quickchain "github.com/quickchain/quickchain"
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/log"
+	quickchain "github.com/quickchainproject/quickchain"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/log"
 )
 
 // Maximum time between wallet health checks to detect USB unplugs.

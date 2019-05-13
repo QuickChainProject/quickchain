@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/quickchain/quickchain/cmd/evm/internal/compiler"
+	"github.com/quickchainproject/quickchain/cmd/evm/internal/compiler"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

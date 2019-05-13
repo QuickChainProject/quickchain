@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/quickchain/quickchain/accounts/keystore"
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/accounts/keystore"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/crypto"
 	"gopkg.in/urfave/cli.v1"
 )
 

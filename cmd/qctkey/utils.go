@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/console"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/console"
+	"github.com/quickchainproject/quickchain/crypto"
 	"gopkg.in/urfave/cli.v1"
 )
 

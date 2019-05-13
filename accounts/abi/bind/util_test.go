@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickchain/quickchain/accounts/abi/bind"
-	"github.com/quickchain/quickchain/accounts/abi/bind/backends"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/accounts/abi/bind"
+	"github.com/quickchainproject/quickchain/accounts/abi/bind/backends"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 var testKey, _ = crypto.HexToECDSA("b71c71a67e1177ad4e901695e1b4b9ee17ae16c6668d313eac2f96dbcda3f291")

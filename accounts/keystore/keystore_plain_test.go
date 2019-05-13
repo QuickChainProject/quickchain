@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/crypto"
 )
 
 func tmpKeyStoreIface(t *testing.T, encrypted bool) (dir string, ks keyStore) {

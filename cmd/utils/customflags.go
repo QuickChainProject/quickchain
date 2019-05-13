@@ -12,7 +12,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/quickchain/quickchain/common/math"
+	"github.com/quickchainproject/quickchain/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

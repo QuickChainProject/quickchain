@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/common/math"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/common/math"
 )
 
 var (

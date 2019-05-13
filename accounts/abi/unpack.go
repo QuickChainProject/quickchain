@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 // reads the integer based on its kind

@@ -13,8 +13,8 @@ import (
 
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/quickchain/quickchain/accounts"
-	"github.com/quickchain/quickchain/common"
+	"github.com/quickchainproject/quickchain/accounts"
+	"github.com/quickchainproject/quickchain/common"
 )
 
 var (

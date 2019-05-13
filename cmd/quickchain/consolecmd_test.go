@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quickchain/quickchain/params"
+	"github.com/quickchainproject/quickchain/params"
 )
 
 const (

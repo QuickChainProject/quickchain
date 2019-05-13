@@ -7,9 +7,9 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/quickchain/quickchain/cmd/utils"
-	"github.com/quickchain/quickchain/qct"
-	"github.com/quickchain/quickchain/params"
+	"github.com/quickchainproject/quickchain/cmd/utils"
+	"github.com/quickchainproject/quickchain/qct"
+	"github.com/quickchainproject/quickchain/params"
 	"gopkg.in/urfave/cli.v1"
 )
 

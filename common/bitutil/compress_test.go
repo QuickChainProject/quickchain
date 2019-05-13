@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/quickchain/quickchain/common/hexutil"
+	"github.com/quickchainproject/quickchain/common/hexutil"
 )
 
 // Tests that data bitset encoding and decoding works and is bijective.

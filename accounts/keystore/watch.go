@@ -5,7 +5,7 @@ package keystore
 import (
 	"time"
 
-	"github.com/quickchain/quickchain/log"
+	"github.com/quickchainproject/quickchain/log"
 	"github.com/rjeczalik/notify"
 )
 

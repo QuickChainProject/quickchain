@@ -11,7 +11,7 @@
 
   <name>Android Quickchain Client</name>
   <description>Android port of the quickchain libraries and node</description>
-  <url>https://github.com/quickchain/quickchain</url>
+  <url>https://github.com/quickchainproject/quickchain</url>
   <inceptionYear>2015</inceptionYear>
 
   <licenses>
@@ -48,10 +48,10 @@
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/quickchain/quickchain/issues/</url>
+    <url>https://github.com/quickchainproject/quickchain/issues/</url>
   </issueManagement>
 
   <scm>
-    <url>https://github.com/quickchain/quickchain</url>
+    <url>https://github.com/quickchainproject/quickchain</url>
   </scm>
 </project>

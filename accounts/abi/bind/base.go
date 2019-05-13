@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/quickchain/quickchain"
-	"github.com/quickchain/quickchain/accounts/abi"
-	"github.com/quickchain/quickchain/common"
-	"github.com/quickchain/quickchain/core/types"
-	"github.com/quickchain/quickchain/crypto"
-	"github.com/quickchain/quickchain/event"
+	"github.com/quickchainproject/quickchain"
+	"github.com/quickchainproject/quickchain/accounts/abi"
+	"github.com/quickchainproject/quickchain/common"
+	"github.com/quickchainproject/quickchain/core/types"
+	"github.com/quickchainproject/quickchain/crypto"
+	"github.com/quickchainproject/quickchain/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

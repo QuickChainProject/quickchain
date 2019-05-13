@@ -3,9 +3,9 @@ InstallDir "$InstDir"
 OutFile "${OUTPUTFILE}" # set through command line arguments
 
 # Links for "Add/Remove Programs"
-!define HELPURL "https://github.com/quickchain/quickchain/issues"
-!define UPDATEURL "https://github.com/quickchain/quickchain/releases"
-!define ABOUTURL "https://github.com/quickchain/quickchain#quickchain-go"
+!define HELPURL "https://github.com/quickchainproject/quickchain/issues"
+!define UPDATEURL "https://github.com/quickchainproject/quickchain/releases"
+!define ABOUTURL "https://github.com/quickchainproject/quickchain#quickchain-go"
 !define /date NOW "%Y%m%d"
 
 PageEx license
